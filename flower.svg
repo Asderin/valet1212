@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="1280" height="1024" viewBox="0 0 1280 1024"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="picture1">
+<rect x="1" y="1" width="200" height="200"
+fill="none" stroke="blue" stroke-width="2"/>
+<circle cx="100" cy="100" r="15"
+fill="moccasin" stroke="floralwhite" stroke-width="1" />
+<ellipse cx=100 cy=135 rx=10 ry=20 fill="lightpink" />
+<ellipse cx=100 cy=65 rx=10 ry=20 fill="lightpink" />
+<ellipse cx=65 cy=100 rx=20 ry=10 fill="lightpink" />
+<ellipse cx=135 cy=100 rx=20 ry=10 fill="lightpink" />
+<ellipse transform="translate(125 75) rotate(-45)"
+rx=20 ry=10 fill="lightpink" />
+<ellipse transform="translate(75 125) rotate(-45)"
+rx=20 ry=10 fill="lightpink" />
+<ellipse transform="translate(75 75) rotate(45)"
+rx=20 ry=10 fill="lightpink" />
+<ellipse transform="translate(125 125) rotate(45)"
+rx=20 ry=10 fill="lightpink" />
+</g>
+</svg>
